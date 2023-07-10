@@ -1,0 +1,74 @@
+{
+    "contrast": [
+        "COMPARISON:Contrast"
+    ],
+    "similarity": [
+        "COMPARISON:Similarity"
+    ],
+    "concession": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Concession"
+    ],
+    "cause": [
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause+belief",
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "condition": [
+        "CONTINGENCY:Condition:Arg1-as-cond",
+        "CONTINGENCY:Condition:Arg2-as-cond",
+        "CONTINGENCY:Condition"
+    ],
+    "negative-condition": [
+        "CONTINGENCY:Negative-Condition:Arg1-as-negcond",
+        "CONTINGENCY:Negative-Condition:Arg2-as-negcond"
+    ],
+    "purpose": [
+        "CONTINGENCY:Purpose:Arg1-as-goal",
+        "CONTINGENCY:Purpose:Arg2-as-goal",
+        "CONTINGENCY:Purpose"
+    ],
+    "conjunction": [
+        "EXPANSION:Conjunction"
+    ],
+    "disjunction": [
+        "EXPANSION:Disjunction"
+    ],
+    "equivalence": [
+        "EXPANSION:Equivalence"
+    ],
+    "instantiation": [
+        "EXPANSION:Instantiation"
+    ],
+    "level-of-detail": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Level-of-detail:Arg1-as-detail",
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "substitution": [
+        "EXPANSION:Substitution:Arg1-as-subst",
+        "EXPANSION:Substitution:Arg2-as-subst"
+    ],
+    "exception": [
+        "EXPANSION:Exception:Arg1-as-excpt",
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "EXPANSION:Exception"
+    ],
+    "manner": [
+        "EXPANSION:Manner:Arg1-as-manner",
+        "EXPANSION:Manner:Arg2-as-manner",
+        "EXPANSION:Manner"
+    ],
+    "synchronous": [
+        "TEMPORAL:Synchronous",
+        "TEMPORAL"
+    ],
+    "asynchronous": [
+        "TEMPORAL:Asynchronous:Succession",
+        "TEMPORAL:Asynchronous:Precedence",
+        "TEMPORAL"
+    ]
+  }

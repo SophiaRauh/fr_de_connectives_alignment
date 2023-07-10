@@ -1,0 +1,1341 @@
+{
+    "aber": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Concession:Arg1-as-denier",
+        "COMPARISON:Contrast",
+        "EXPANSION:Conjunction"
+    ],
+    "abgesehen davon": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception:Arg1-as-excpt",
+        "COMPARISON:Concession:Arg1-as-denier",
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "abgesehen davon , dass": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "abgesehen davon , daß": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "alldieweil": [
+        "CONTINGENCY:Cause:Reason",
+        "COMPARISON:Contrast",
+        "TEMPORAL:Synchronous"
+    ],
+    "allein": [
+        "COMPARISON:Contrast"
+    ],
+    "allenfalls": [
+        "EXPANSION:Instantiation"
+    ],
+    "allerdings": [
+        "COMPARISON:Contrast",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "als": [
+        "TEMPORAL:Synchronous",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "als ob": [
+        "COMPARISON:Similarity",
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "als wenn": [
+        "EXPANSION:Manner:Arg2-as-manner"
+    ],
+    "alsdann": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "also": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "an hand": [
+        "EXPANSION:Manner:Arg2-as-manner"
+    ],
+    "an stelle dessen": [
+        "EXPANSION:Substitution:Arg2-as-subst"
+    ],
+    "anderenfalls": [
+        "CONTINGENCY:Negative-Condition:Arg2-as-negcond"
+    ],
+    "andererseits": [
+        "COMPARISON:Contrast",
+        "EXPANSION:Conjunction"
+    ],
+    "andernfalls": [
+        "CONTINGENCY:Negative-Condition:Arg2-as-negcond"
+    ],
+    "anders gesagt": [
+        "EXPANSION:Equivalence"
+    ],
+    "andrerseits": [
+        "COMPARISON:Contrast",
+        "EXPANSION:Conjunction"
+    ],
+    "angenommen": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "angenommen , dass": [
+        "EXPANSION:Manner:Arg2-as-manner",
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "angenommen , daß": [
+        "EXPANSION:Manner:Arg2-as-manner",
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "angesichts": [
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "angesichts dessen": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "angesichts dessen , dass": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "angesichts dessen , daß": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "anhand": [
+        "EXPANSION:Manner:Arg2-as-manner"
+    ],
+    "anlaesslich": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Synchronous"
+    ],
+    "anlaeßlich": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Synchronous"
+    ],
+    "anlässlich": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Synchronous"
+    ],
+    "anläßlich": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Synchronous"
+    ],
+    "anschliessend": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "anschließend": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "ansonsten": [
+        "EXPANSION:Exception:Arg1-as-excpt",
+        "CONTINGENCY:Negative-Condition:Arg2-as-negcond"
+    ],
+    "anstatt": [
+        "EXPANSION:Substitution:Arg1-as-subst"
+    ],
+    "anstatt dass": [
+        "EXPANSION:Substitution:Arg1-as-subst"
+    ],
+    "anstatt daß": [
+        "EXPANSION:Substitution:Arg1-as-subst"
+    ],
+    "anstelle dessen": [
+        "EXPANSION:Substitution:Arg2-as-subst"
+    ],
+    "auch": [
+        "EXPANSION:Conjunction"
+    ],
+    "auf ... hin": [
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Purpose:Arg1-as-goal"
+    ],
+    "auf dass": [
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "auf daß": [
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "auf grund": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "auf grund dessen": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "auf grund dessen , dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "auf grund dessen , daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "auf grund dessen ... dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "auf grund dessen ... daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "aufgrund": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "aufgrund dessen": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "aufgrund dessen , dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "aufgrund dessen , daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "aufgrund dessen ... dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "aufgrund dessen ... daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "aufgrunddessen , dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "aufgrunddessen , daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "ausgenommen": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "ausgenommen , dass": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "ausgenommen , daß": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "ausser": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "ausser dass": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "ausser wenn": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "ausserdem": [
+        "EXPANSION:Conjunction"
+    ],
+    "außer": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "außer dass": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "außer wenn": [
+        "EXPANSION:Exception:Arg2-as-excpt"
+    ],
+    "außerdem": [
+        "EXPANSION:Conjunction"
+    ],
+    "beispielsweise": [
+        "EXPANSION:Instantiation"
+    ],
+    "besonders": [
+        "EXPANSION:Instantiation",
+        "EXPANSION:Level-of-detail"
+    ],
+    "bevor": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "beziehungsweise": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "EXPANSION:Disjunction",
+        "EXPANSION:Conjunction"
+    ],
+    "bis": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "bis dass": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "bis daß": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "bloss": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "bloss dass": [
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Contrast"
+    ],
+    "bloss daß": [
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Contrast"
+    ],
+    "bloß": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "bloß dass": [
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Contrast"
+    ],
+    "bloß daß": [
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Contrast"
+    ],
+    "bspw .": [
+        "EXPANSION:Instantiation"
+    ],
+    "bzw .": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "EXPANSION:Disjunction",
+        "EXPANSION:Conjunction"
+    ],
+    "d.h .": [
+        "EXPANSION:Equivalence",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "da": [
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "dabei": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Manner:Arg2-as-manner",
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "dadurch": [
+        "CONTINGENCY:Cause:Result",
+        "EXPANSION:Manner:Arg1-as-manner"
+    ],
+    "dadurch , dass": [
+        "EXPANSION:Manner:Arg2-as-manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dadurch , daß": [
+        "EXPANSION:Manner:Arg2-as-manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dadurch ... dass": [
+        "EXPANSION:Manner:Arg2-as-manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dadurch ... daß": [
+        "EXPANSION:Manner:Arg2-as-manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dafuer": [
+        "COMPARISON:Contrast"
+    ],
+    "dafuer , dass": [
+        "COMPARISON:Contrast"
+    ],
+    "dafuer , daß": [
+        "COMPARISON:Contrast"
+    ],
+    "dafuer ... dass": [
+        "COMPARISON:Contrast"
+    ],
+    "dafuer ... daß": [
+        "COMPARISON:Contrast"
+    ],
+    "dafür": [
+        "COMPARISON:Contrast"
+    ],
+    "dafür , dass": [
+        "COMPARISON:Contrast"
+    ],
+    "dafür , daß": [
+        "COMPARISON:Contrast"
+    ],
+    "dafür ... dass": [
+        "COMPARISON:Contrast"
+    ],
+    "dafür ... daß": [
+        "COMPARISON:Contrast"
+    ],
+    "dagegen": [
+        "COMPARISON:Contrast"
+    ],
+    "daher": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "dahingegen": [
+        "COMPARISON:Contrast"
+    ],
+    "damit": [
+        "CONTINGENCY:Purpose:Arg2-as-goal",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "danach": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "daneben": [
+        "EXPANSION:Conjunction"
+    ],
+    "dank": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dann": [
+        "CONTINGENCY:Condition:Arg2-as-cond",
+        "TEMPORAL:Asynchronous:Precedence",
+        "TEMPORAL:Synchronous",
+        "EXPANSION:Conjunction"
+    ],
+    "darauf": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "daraufhin": [
+        "CONTINGENCY:Cause:Result",
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "darueber hinaus": [
+        "EXPANSION:Conjunction"
+    ],
+    "darum": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "darüber hinaus": [
+        "EXPANSION:Conjunction"
+    ],
+    "das heisst": [
+        "EXPANSION:Equivalence",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "das heißt": [
+        "EXPANSION:Equivalence",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "dass": [
+        "CONTINGENCY:Purpose:Arg2-as-goal",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "davon abgesehen": [
+        "EXPANSION:Exception:Arg1-as-excpt",
+        "EXPANSION:Conjunction"
+    ],
+    "davon abgesehen , dass": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "davon abgesehen , daß": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "davor": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "dazu": [
+        "CONTINGENCY:Purpose:Arg1-as-goal",
+        "EXPANSION:Conjunction"
+    ],
+    "dazu , dass": [
+        "EXPANSION:Conjunction"
+    ],
+    "dazu , daß": [
+        "EXPANSION:Conjunction"
+    ],
+    "daß": [
+        "CONTINGENCY:Purpose:Arg2-as-goal",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dementgegen": [
+        "COMPARISON:Contrast"
+    ],
+    "dementsprechend": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "demgegenueber": [
+        "COMPARISON:Contrast",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "demgegenüber": [
+        "COMPARISON:Contrast",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "demgemaeß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "demgemäß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "demnach": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "demzufolge": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "denn": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dennoch": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "derweil": [
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Synchronous"
+    ],
+    "derweilen": [
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Synchronous"
+    ],
+    "des weiteren": [
+        "EXPANSION:Conjunction"
+    ],
+    "desgleichen": [
+        "EXPANSION:Conjunction"
+    ],
+    "deshalb": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "dessen ungeachtet": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "dessen ungeachtet , dass": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "dessen ungeachtet , daß": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "dessenungeachtet": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "dessenungeachtet , dass": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "dessenungeachtet , daß": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "deswegen": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "desweiteren": [
+        "EXPANSION:Conjunction"
+    ],
+    "doch": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Contrast"
+    ],
+    "drauf": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "drum": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "durch": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "eben": [
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "ebenfalls": [
+        "EXPANSION:Conjunction",
+        "COMPARISON:Similarity"
+    ],
+    "ebenso wenig": [
+        "COMPARISON:Similarity"
+    ],
+    "ebensowenig": [
+        "COMPARISON:Similarity"
+    ],
+    "eh": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "ehe": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "einerseits": [
+        "COMPARISON:Contrast"
+    ],
+    "endlich": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "entgegen": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "entsprechend": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "entweder ... oder": [
+        "EXPANSION:Disjunction"
+    ],
+    "ergo": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "erst mal": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "erstens": [
+        "EXPANSION:Conjunction"
+    ],
+    "es sei denn": [
+        "CONTINGENCY:Negative-Condition:Arg1-as-negcond"
+    ],
+    "falls": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "ferner": [
+        "EXPANSION:Conjunction"
+    ],
+    "folgerichtig": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "folglich": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "freilich": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Contrast",
+        "EXPANSION:Exception:Arg2-as-excpt",
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "fuer": [
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "fuer den fall , dass": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "fuer den fall , daß": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "für": [
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "für den fall , dass": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "für den fall , daß": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "gemaeß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "gemäß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "genau gesagt": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "genauer gesagt": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "geschweige": [
+        "EXPANSION:Conjunction"
+    ],
+    "geschweige denn": [
+        "EXPANSION:Conjunction"
+    ],
+    "gesetzt": [
+        "CONTINGENCY:Condition:Arg2-as-cond"
+    ],
+    "gesetzt , dass": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "gesetzt , daß": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "gesetzt den fall": [
+        "CONTINGENCY:Condition:Arg2-as-cond"
+    ],
+    "gesetzt den fall , dass": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "gesetzt den fall , daß": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "gleichermassen": [
+        "COMPARISON:Similarity"
+    ],
+    "gleichermaßen": [
+        "COMPARISON:Similarity"
+    ],
+    "gleichfalls": [
+        "COMPARISON:Similarity"
+    ],
+    "gleichwohl": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "gleichzeitig": [
+        "COMPARISON:Contrast",
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Synchronous"
+    ],
+    "halber": [
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "halt": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "hierauf": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "hieraufhin": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "hierdurch": [
+        "EXPANSION:Manner:Arg1-as-manner",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "hierfuer": [
+        "CONTINGENCY:Purpose:Arg1-as-goal"
+    ],
+    "hierfür": [
+        "CONTINGENCY:Purpose:Arg1-as-goal"
+    ],
+    "hiermit": [
+        "EXPANSION:Manner:Arg1-as-manner"
+    ],
+    "hiernach": [
+        "CONTINGENCY:Cause:Result",
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "hierzu": [
+        "CONTINGENCY:Purpose:Arg1-as-goal"
+    ],
+    "hingegen": [
+        "COMPARISON:Contrast"
+    ],
+    "hinterher": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "hoechstens": [
+        "CONTINGENCY:Negative-Condition:Arg1-as-negcond"
+    ],
+    "höchstens": [
+        "CONTINGENCY:Negative-Condition:Arg1-as-negcond"
+    ],
+    "im uebrigen": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception:Arg1-as-excpt"
+    ],
+    "im übrigen": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception:Arg1-as-excpt"
+    ],
+    "immerhin": [
+        "CONTINGENCY:Cause:Reason",
+        "COMPARISON:Contrast",
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "in anbetracht dessen": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "in anbetracht dessen , dass": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "in anbetracht dessen , daß": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "in anbetract dessen , dass": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "indem": [
+        "EXPANSION:Manner:Arg2-as-manner"
+    ],
+    "indes": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Contrast"
+    ],
+    "indessen": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Contrast"
+    ],
+    "infolge": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "infolgedessen": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "insbesondere": [
+        "EXPANSION:Instantiation"
+    ],
+    "insofern": [],
+    "insofern ... als": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "insoweit": [],
+    "inzwischen": [
+        "TEMPORAL:Synchronous",
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "je nachdem": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "jedoch": [
+        "COMPARISON:Contrast",
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "kaum": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "kaum dass": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "kaum daß": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "konsequenterweise": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Condition:Arg2-as-cond",
+        "EXPANSION:Conjunction"
+    ],
+    "kraft": [
+        "EXPANSION:Manner:Arg2-as-manner"
+    ],
+    "kurz gesagt": [
+        "EXPANSION:Level-of-detail:Arg1-as-detail"
+    ],
+    "m.a.w .": [
+        "EXPANSION:Equivalence"
+    ],
+    "mal": [
+        "EXPANSION:Conjunction"
+    ],
+    "mangels": [
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "mit anderen worten": [
+        "EXPANSION:Equivalence"
+    ],
+    "mithin": [
+        "CONTINGENCY:Cause:Result",
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "nachdem": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "nachher": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "naemlich": [
+        "CONTINGENCY:Cause:Reason",
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "nebenbei": [
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Synchronous"
+    ],
+    "nebenbei gesagt": [
+        "EXPANSION:Conjunction"
+    ],
+    "nebenher": [
+        "TEMPORAL:Synchronous",
+        "EXPANSION:Conjunction"
+    ],
+    "nicht umsonst": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "nichtsdestominder": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "nichtsdestotrotz": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "nichtsdestoweniger": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "noch": [
+        "TEMPORAL:Synchronous",
+        "CONTINGENCY:Cause:Reason",
+        "EXPANSION:Conjunction"
+    ],
+    "nun einmal": [],
+    "nur": [
+        "COMPARISON:Contrast"
+    ],
+    "nur dass": [
+        "COMPARISON:Contrast"
+    ],
+    "nur daß": [
+        "COMPARISON:Contrast"
+    ],
+    "nämlich": [
+        "CONTINGENCY:Cause:Reason",
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "ob": [],
+    "obendrein": [
+        "EXPANSION:Conjunction"
+    ],
+    "obgleich": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "obschon": [
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "obwohl": [
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "obzwar": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "oder": [
+        "EXPANSION:Disjunction"
+    ],
+    "ohne dass": [
+        "EXPANSION:Conjunction"
+    ],
+    "ohne daß": [
+        "EXPANSION:Conjunction"
+    ],
+    "ohnedies": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "ohnehin": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "qua": [
+        "EXPANSION:Manner:Arg2-as-manner"
+    ],
+    "schließlich": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "schlussendlich": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "TEMPORAL:Synchronous"
+    ],
+    "sei es": [
+        "EXPANSION:Instantiation"
+    ],
+    "seit": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "seitdem": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "seither": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "TEMPORAL:Synchronous"
+    ],
+    "sintemal": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "sintemalen": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "so ... dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "so ... daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "so dass": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "so daß": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "so oder so": [],
+    "sobald": [
+        "TEMPORAL:Synchronous"
+    ],
+    "sodann": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Condition:Arg2-as-cond",
+        "EXPANSION:Conjunction"
+    ],
+    "sodass": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "sodaß": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "sofern": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "sogleich": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "TEMPORAL:Synchronous"
+    ],
+    "solang": [
+        "TEMPORAL:Synchronous",
+        "CONTINGENCY:Condition:Arg1-as-cond",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "solange": [
+        "TEMPORAL:Synchronous",
+        "CONTINGENCY:Condition:Arg1-as-cond",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "solcherart ... dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "solcherart ... daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "somit": [
+        "CONTINGENCY:Cause:Result",
+        "EXPANSION:Manner:Arg1-as-manner",
+        "EXPANSION:Level-of-detail:Arg1-as-detail",
+        "EXPANSION:Equivalence"
+    ],
+    "sonach": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "sondern": [
+        "EXPANSION:Substitution:Arg2-as-subst",
+        "EXPANSION:Conjunction"
+    ],
+    "sonst": [
+        "CONTINGENCY:Negative-Condition:Arg2-as-negcond"
+    ],
+    "sooft": [
+        "TEMPORAL:Synchronous",
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "sosehr": [
+        "COMPARISON:Contrast",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "soweit": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "sowie": [
+        "EXPANSION:Conjunction"
+    ],
+    "sowieso": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "sowohl ... als": [
+        "EXPANSION:Conjunction"
+    ],
+    "sowohl ... als auch": [
+        "EXPANSION:Conjunction"
+    ],
+    "sowohl ... wie": [
+        "EXPANSION:Conjunction"
+    ],
+    "sowohl ... wie auch": [
+        "EXPANSION:Conjunction"
+    ],
+    "spaeter": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "sprich": [
+        "EXPANSION:Equivalence"
+    ],
+    "später": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "statt": [
+        "EXPANSION:Substitution:Arg1-as-subst"
+    ],
+    "stattdessen": [
+        "EXPANSION:Substitution:Arg2-as-subst"
+    ],
+    "teils ... teils": [
+        "EXPANSION:Conjunction"
+    ],
+    "trotz": [
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "trotzdem": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "ueberdies": [
+        "EXPANSION:Conjunction"
+    ],
+    "ueberhaupt": [
+        "EXPANSION:Conjunction"
+    ],
+    "um ... willen": [
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "um so mehr": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "um so mehr ... als": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "um so weniger ... als": [
+        "CONTINGENCY:Cause:Reason",
+        "EXPANSION:Conjunction"
+    ],
+    "umso ... als": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "umso mehr": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "umso mehr ... als": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "umso weniger ... als": [
+        "CONTINGENCY:Cause:Reason",
+        "EXPANSION:Conjunction"
+    ],
+    "unbeschadet dessen": [
+        "COMPARISON:Concession:Arg2-as-denier"
+    ],
+    "unbeschadet dessen , dass": [
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "unbeschadet dessen , daß": [
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "und": [
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Asynchronous:Precedence",
+        "COMPARISON:Contrast"
+    ],
+    "und zwar": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "ungeachtet dessen": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "ungeachtet dessen , dass": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "ungeachtet dessen , daß": [
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "unterdessen": [
+        "COMPARISON:Contrast",
+        "TEMPORAL:Synchronous"
+    ],
+    "unterstellt , dass": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "unterstellt , daß": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "vermoege": [],
+    "vermöge": [],
+    "vielmehr": [
+        "EXPANSION:Substitution:Arg2-as-subst",
+        "EXPANSION:Conjunction"
+    ],
+    "von ... wegen": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "von daher": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "vorausgesetzt": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "vorausgesetzt , dass": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "vorausgesetzt , daß": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "vorbehaltlich dessen": [
+        "CONTINGENCY:Condition:Arg2-as-cond"
+    ],
+    "vorbehaltlich dessen , dass": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "vorbehaltlich dessen , daß": [
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "vorher": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "waehrend": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Contrast"
+    ],
+    "waehrenddessen": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Contrast"
+    ],
+    "warum": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "weder ... noch": [
+        "EXPANSION:Conjunction"
+    ],
+    "wegen": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "weil": [
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "weiterhin": [
+        "EXPANSION:Conjunction"
+    ],
+    "wenn": [
+        "TEMPORAL:Synchronous",
+        "CONTINGENCY:Condition:Arg1-as-cond"
+    ],
+    "wenn ... auch": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "wenngleich": [
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "weshalb": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "weswegen": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "wie": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Similarity"
+    ],
+    "wiederum": [
+        "EXPANSION:Conjunction",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "COMPARISON:Contrast"
+    ],
+    "wo": [
+        "TEMPORAL:Synchronous",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "wobei": [
+        "TEMPORAL:Synchronous",
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "COMPARISON:Concession:Arg2-as-denier",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "wodurch": [
+        "CONTINGENCY:Cause:Result",
+        "EXPANSION:Manner:Arg1-as-manner"
+    ],
+    "wogegen": [
+        "COMPARISON:Contrast"
+    ],
+    "wohingegen": [
+        "COMPARISON:Contrast",
+        "COMPARISON:Concession:Arg1-as-denier",
+        "EXPANSION:Conjunction"
+    ],
+    "womit": [
+        "CONTINGENCY:Cause:Result",
+        "EXPANSION:Manner:Arg1-as-manner",
+        "EXPANSION:Conjunction"
+    ],
+    "wonach": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "worauf": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "woraufhin": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "während": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Contrast"
+    ],
+    "währenddessen": [
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Contrast"
+    ],
+    "z.b .": [
+        "EXPANSION:Instantiation"
+    ],
+    "z.bsp .": [
+        "EXPANSION:Instantiation"
+    ],
+    "zu ... als dass": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "zu ... als daß": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "zu guter letzt": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "zudem": [
+        "EXPANSION:Conjunction"
+    ],
+    "zuerst": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "zugleich": [
+        "TEMPORAL:Synchronous",
+        "EXPANSION:Conjunction",
+        "COMPARISON:Contrast"
+    ],
+    "zuletzt": [
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "zum anderen": [
+        "EXPANSION:Conjunction",
+        "COMPARISON:Contrast"
+    ],
+    "zum beispiel": [
+        "EXPANSION:Instantiation"
+    ],
+    "zum einen": [
+        "EXPANSION:Conjunction",
+        "COMPARISON:Contrast"
+    ],
+    "zumal": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "zunaechst": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Conjunction"
+    ],
+    "zunächst": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Conjunction"
+    ],
+    "zusaetzlich": [
+        "EXPANSION:Conjunction"
+    ],
+    "zusätzlich": [
+        "EXPANSION:Conjunction"
+    ],
+    "zuvor": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "zwar": [
+        "COMPARISON:Concession:Arg1-as-denier"
+    ],
+    "zwecks": [
+        "CONTINGENCY:Purpose:Arg2-as-goal"
+    ],
+    "zweitens": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "überdies": [
+        "EXPANSION:Conjunction"
+    ],
+    "überhaupt": [
+        "EXPANSION:Conjunction"
+    ]
+}

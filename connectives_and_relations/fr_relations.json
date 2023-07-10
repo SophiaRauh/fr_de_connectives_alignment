@@ -1,0 +1,1651 @@
+{
+    "afin d'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "afin de": [
+        "CONTINGENCY:Purpose"
+    ],
+    "afin qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "afin que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "ainsi": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "alors": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact",
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "CONTINGENCY:Condition"
+    ],
+    "alors même qu'": [
+        "COMPARISON:Concession",
+        "TEMPORAL:Synchronous"
+    ],
+    "alors même que": [
+        "COMPARISON:Concession",
+        "TEMPORAL:Synchronous"
+    ],
+    "alors qu'": [
+        "COMPARISON:Contrast",
+        "TEMPORAL:Synchronous"
+    ],
+    "alors que": [
+        "COMPARISON:Contrast",
+        "TEMPORAL:Synchronous"
+    ],
+    "après": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "après qu'": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "après que": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "après quoi": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "après tout": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "attendu qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "attendu que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "au bout du compte": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "au cas où": [
+        "CONTINGENCY:Condition",
+        "CONTINGENCY:Purpose"
+    ],
+    "au contraire": [
+        "EXPANSION:Conjunction",
+        "COMPARISON:Contrast"
+    ],
+    "au fait": [
+        "EXPANSION:Conjunction"
+    ],
+    "au fur et à mesure qu'": [
+        "unknown"
+    ],
+    "au fur et à mesure que": [
+        "unknown"
+    ],
+    "au lieu": [
+        "EXPANSION:Exception"
+    ],
+    "au lieu d'": [
+        "unknown"
+    ],
+    "au lieu de": [
+        "unknown"
+    ],
+    "au moins": [
+        "unknown"
+    ],
+    "au moment d'": [
+        "TEMPORAL:Synchronous"
+    ],
+    "au moment de": [
+        "TEMPORAL:Synchronous"
+    ],
+    "au moment où": [
+        "TEMPORAL:Synchronous"
+    ],
+    "au même titre qu'": [
+        "COMPARISON:Similarity"
+    ],
+    "au même titre que": [
+        "COMPARISON:Similarity"
+    ],
+    "au point d'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "au point de": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "au point qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "au point que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "au total": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "auparavant": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "aussi": [
+        "CONTINGENCY:Cause:Result",
+        "COMPARISON:Similarity"
+    ],
+    "aussi longtemps qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "aussi longtemps que": [
+        "CONTINGENCY:Condition"
+    ],
+    "aussitôt": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "aussitôt qu'": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner"
+    ],
+    "aussitôt que": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner"
+    ],
+    "autant": [
+        "COMPARISON:Contrast"
+    ],
+    "autant dire qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "autant dire que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "autrement": [
+        "EXPANSION:Disjunction",
+        "EXPANSION:Exception",
+        "EXPANSION:Conjunction"
+    ],
+    "autrement dit": [
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "avant": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "avant d'": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "avant de": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "avant même d'": [
+        "unknown"
+    ],
+    "avant même de": [
+        "unknown"
+    ],
+    "avant même qu'": [
+        "unknown"
+    ],
+    "avant même que": [
+        "unknown"
+    ],
+    "avant qu'": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "CONTINGENCY:Purpose",
+        "TEMPORAL"
+    ],
+    "avant que": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "CONTINGENCY:Purpose",
+        "TEMPORAL"
+    ],
+    "bien qu'": [
+        "COMPARISON:Concession"
+    ],
+    "bien que": [
+        "COMPARISON:Concession"
+    ],
+    "bientôt": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "unknown"
+    ],
+    "bref": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "c' est pourquoi": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "c' est à dire qu'": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "c' est à dire que": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "car": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "ceci dit": [
+        "EXPANSION:Exception"
+    ],
+    "ceci étant dit": [
+        "EXPANSION:Exception"
+    ],
+    "cela dit": [
+        "EXPANSION:Exception"
+    ],
+    "cependant": [
+        "EXPANSION:Exception"
+    ],
+    "cependant qu'": [
+        "COMPARISON:Concession"
+    ],
+    "cependant que": [
+        "COMPARISON:Concession"
+    ],
+    "cette fois qu'": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "cette fois que": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "comme": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause+belief",
+        "TEMPORAL:Synchronous",
+        "COMPARISON:Similarity"
+    ],
+    "comme quoi": [
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "comme si": [
+        "unknown"
+    ],
+    "comme ça": [
+        "CONTINGENCY:Condition"
+    ],
+    "comparativement": [
+        "COMPARISON:Contrast"
+    ],
+    "considérant qu'": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "considérant que": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "considéré qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "considéré que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "conséquemment": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "corrélativement": [
+        "EXPANSION:Conjunction"
+    ],
+    "d' abord ... ensuite": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "d' ailleurs": [
+        "EXPANSION:Conjunction"
+    ],
+    "d' autant plus qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "d' autant plus que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "d' autant qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "d' autant que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "d' autre part": [
+        "EXPANSION:Conjunction"
+    ],
+    "d' ici qu'": [
+        "TEMPORAL"
+    ],
+    "d' ici que": [
+        "TEMPORAL"
+    ],
+    "d' où": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "d' où qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "d' où que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "d' un autre côté": [
+        "COMPARISON:Contrast"
+    ],
+    "d' un coup": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "d' un côté ... d' un autre côté": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "d' un seul coup": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "d' une part ... d' autre part": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "dans ce cas": [
+        "CONTINGENCY:Condition"
+    ],
+    "dans ce cas-là": [
+        "CONTINGENCY:Condition"
+    ],
+    "dans l' espoir d'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans l' espoir de": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans l' espoir qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans l' espoir que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans l' hypothèse où": [
+        "CONTINGENCY:Condition"
+    ],
+    "dans l' intention d'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans l' intention de": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans l' intention qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans l' intention que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans la mesure où": [
+        "CONTINGENCY:Cause+belief",
+        "CONTINGENCY:Condition"
+    ],
+    "dans le but d'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans le but de": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans le but qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans le but que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "dans le cas où": [
+        "CONTINGENCY:Condition"
+    ],
+    "dans le coup": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "dans le sens où": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "dans le sens qu'": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "dans le sens que": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "dans tous les cas": [
+        "EXPANSION:Exception"
+    ],
+    "de ce fait": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de fait": [
+        "CONTINGENCY:Cause+belief",
+        "EXPANSION:Conjunction"
+    ],
+    "de façon qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de façon que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de façon à": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de façon à ce qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de façon à ce que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de la même façon": [
+        "COMPARISON:Similarity"
+    ],
+    "de la même façon qu'": [
+        "COMPARISON:Similarity"
+    ],
+    "de la même façon que": [
+        "COMPARISON:Similarity"
+    ],
+    "de la même manière": [
+        "COMPARISON:Similarity"
+    ],
+    "de la même manière qu'": [
+        "COMPARISON:Similarity"
+    ],
+    "de la même manière que": [
+        "COMPARISON:Similarity"
+    ],
+    "de manière qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de manière que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de manière à": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de manière à ce qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de manière à ce que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "de même": [
+        "COMPARISON:Similarity"
+    ],
+    "de même qu'": [
+        "COMPARISON:Similarity"
+    ],
+    "de même que": [
+        "COMPARISON:Similarity"
+    ],
+    "de plus": [
+        "EXPANSION:Conjunction"
+    ],
+    "de sorte qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de sorte que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de telle façon qu'": [
+        "CONTINGENCY:Purpose",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de telle façon que": [
+        "CONTINGENCY:Purpose",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de telle manière qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de telle manière que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "de toute façon": [
+        "EXPANSION:Exception"
+    ],
+    "de toute manière": [
+        "EXPANSION:Exception"
+    ],
+    "de toutes façons": [
+        "EXPANSION:Exception"
+    ],
+    "de toutes manières": [
+        "EXPANSION:Exception"
+    ],
+    "depuis": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "depuis qu'": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner",
+        "TEMPORAL"
+    ],
+    "depuis que": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner",
+        "TEMPORAL"
+    ],
+    "des fois qu'": [
+        "CONTINGENCY:Purpose",
+        "CONTINGENCY:Condition"
+    ],
+    "des fois que": [
+        "CONTINGENCY:Purpose",
+        "CONTINGENCY:Condition"
+    ],
+    "dire qu'": [
+        "COMPARISON:Concession"
+    ],
+    "dire que": [
+        "COMPARISON:Concession"
+    ],
+    "donc": [
+        "CONTINGENCY:Cause:Result",
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "du coup": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "du fait qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "du fait que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "du moins": [
+        "EXPANSION:Equivalence"
+    ],
+    "du moment qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "du moment que": [
+        "CONTINGENCY:Condition"
+    ],
+    "du reste": [
+        "EXPANSION:Conjunction"
+    ],
+    "du temps où": [
+        "TEMPORAL:Synchronous"
+    ],
+    "dès lors": [
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "dès lors qu'": [
+        "CONTINGENCY:Condition",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "dès lors que": [
+        "CONTINGENCY:Condition",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "dès qu'": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Condition"
+    ],
+    "dès que": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Condition"
+    ],
+    "décidément": [
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "déjà": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "déjà qu'": [
+        "EXPANSION:Conjunction"
+    ],
+    "déjà que": [
+        "EXPANSION:Conjunction"
+    ],
+    "effectivement": [
+        "EXPANSION:Conjunction"
+    ],
+    "en": [
+        "CONTINGENCY:Condition",
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL"
+    ],
+    "en admettant qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "en admettant que": [
+        "CONTINGENCY:Condition"
+    ],
+    "en attendant": [
+        "EXPANSION:Exception"
+    ],
+    "en bref": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "en ce cas": [
+        "CONTINGENCY:Condition"
+    ],
+    "en ce sens qu'": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "en ce sens que": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "en comparaison": [
+        "COMPARISON:Contrast"
+    ],
+    "en conséquence": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "en d' autres termes": [
+        "EXPANSION:Level-of-detail"
+    ],
+    "en définitive": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "en dépit du fait qu'": [
+        "COMPARISON:Concession"
+    ],
+    "en dépit du fait que": [
+        "COMPARISON:Concession"
+    ],
+    "en dépit qu'": [
+        "COMPARISON:Concession"
+    ],
+    "en dépit que": [
+        "COMPARISON:Concession"
+    ],
+    "en effet": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "en fait": [
+        "unknown"
+    ],
+    "en gros": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "en même temps": [
+        "EXPANSION:Exception",
+        "TEMPORAL"
+    ],
+    "en même temps qu'": [
+        "COMPARISON:Concession",
+        "TEMPORAL"
+    ],
+    "en même temps que": [
+        "COMPARISON:Concession",
+        "TEMPORAL"
+    ],
+    "en outre": [
+        "EXPANSION:Conjunction"
+    ],
+    "en particulier": [
+        "EXPANSION:Level-of-detail"
+    ],
+    "en plus": [
+        "EXPANSION:Conjunction"
+    ],
+    "en plus d'": [
+        "EXPANSION:Conjunction"
+    ],
+    "en plus de": [
+        "EXPANSION:Conjunction"
+    ],
+    "en revanche": [
+        "COMPARISON:Contrast"
+    ],
+    "en réalité": [
+        "unknown"
+    ],
+    "en résumé": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "en somme": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "en supposant qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "en supposant que": [
+        "CONTINGENCY:Condition"
+    ],
+    "en tous cas": [
+        "EXPANSION:Exception",
+        "EXPANSION:Equivalence"
+    ],
+    "en tous les cas": [
+        "EXPANSION:Exception"
+    ],
+    "en tout cas": [
+        "EXPANSION:Exception",
+        "EXPANSION:Equivalence"
+    ],
+    "en tout état de cause": [
+        "EXPANSION:Exception"
+    ],
+    "en vue d'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "en vue de": [
+        "CONTINGENCY:Purpose"
+    ],
+    "en vérité": [
+        "unknown"
+    ],
+    "encore": [
+        "EXPANSION:Exception"
+    ],
+    "encore qu'": [
+        "COMPARISON:Concession"
+    ],
+    "encore que": [
+        "COMPARISON:Concession"
+    ],
+    "enfin": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception",
+        "EXPANSION:Equivalence"
+    ],
+    "ensuite": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "et": [
+        "EXPANSION:Conjunction"
+    ],
+    "et dire qu'": [
+        "COMPARISON:Concession"
+    ],
+    "et dire que": [
+        "COMPARISON:Concession"
+    ],
+    "et puis": [
+        "EXPANSION:Conjunction"
+    ],
+    "excepté qu'": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "excepté que": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "faute d'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "faute de": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "finalement": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "globalement": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail"
+    ],
+    "histoire d'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "histoire de": [
+        "CONTINGENCY:Purpose"
+    ],
+    "hormis le fait qu'": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "hormis le fait que": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "hormis qu'": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "hormis que": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "instantanément": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "CONTINGENCY:Cause:Result"
+    ],
+    "inversement": [
+        "COMPARISON:Contrast",
+        "COMPARISON:Similarity"
+    ],
+    "jusqu' à": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "jusqu' à ce qu'": [
+        "CONTINGENCY:Purpose",
+        "CONTINGENCY:Cause:Result",
+        "TEMPORAL"
+    ],
+    "jusqu' à ce que": [
+        "CONTINGENCY:Purpose",
+        "CONTINGENCY:Cause:Result",
+        "TEMPORAL"
+    ],
+    "la preuve": [
+        "EXPANSION:Conjunction"
+    ],
+    "le fait est qu'": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "le fait est que": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "le jour où": [
+        "CONTINGENCY:Condition",
+        "TEMPORAL"
+    ],
+    "le temps qu'": [
+        "CONTINGENCY:Purpose",
+        "TEMPORAL:Synchronous",
+        "TEMPORAL"
+    ],
+    "le temps que": [
+        "CONTINGENCY:Purpose",
+        "TEMPORAL:Synchronous",
+        "TEMPORAL"
+    ],
+    "lorsqu'": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Synchronous"
+    ],
+    "lorsque": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "TEMPORAL:Synchronous"
+    ],
+    "maintenant": [
+        "EXPANSION:Exception"
+    ],
+    "maintenant qu'": [
+        "CONTINGENCY:Cause+belief",
+        "TEMPORAL"
+    ],
+    "maintenant que": [
+        "CONTINGENCY:Cause+belief",
+        "TEMPORAL"
+    ],
+    "mais": [
+        "COMPARISON:Contrast",
+        "EXPANSION:Exception"
+    ],
+    "malgré le fait qu'": [
+        "COMPARISON:Concession"
+    ],
+    "malgré le fait que": [
+        "COMPARISON:Concession"
+    ],
+    "malgré qu'": [
+        "COMPARISON:Concession"
+    ],
+    "malgré que": [
+        "COMPARISON:Concession"
+    ],
+    "malgré tout": [
+        "EXPANSION:Exception"
+    ],
+    "malheureusement": [
+        "EXPANSION:Exception"
+    ],
+    "mieux": [
+        "EXPANSION:Equivalence"
+    ],
+    "mis à part le fait qu'": [
+        "COMPARISON:Concession"
+    ],
+    "mis à part le fait que": [
+        "COMPARISON:Concession"
+    ],
+    "mis à part qu'": [
+        "COMPARISON:Concession"
+    ],
+    "mis à part que": [
+        "COMPARISON:Concession"
+    ],
+    "même": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception"
+    ],
+    "même qu'": [
+        "EXPANSION:Conjunction"
+    ],
+    "même que": [
+        "EXPANSION:Conjunction"
+    ],
+    "même si": [
+        "COMPARISON:Concession"
+    ],
+    "nonobstant": [
+        "EXPANSION:Exception"
+    ],
+    "nonobstant qu'": [
+        "COMPARISON:Concession"
+    ],
+    "nonobstant que": [
+        "COMPARISON:Concession"
+    ],
+    "néanmoins": [
+        "EXPANSION:Exception"
+    ],
+    "or": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Exception"
+    ],
+    "ou": [
+        "EXPANSION:Disjunction"
+    ],
+    "ou bien": [
+        "EXPANSION:Disjunction"
+    ],
+    "outre qu'": [
+        "EXPANSION:Conjunction"
+    ],
+    "outre que": [
+        "EXPANSION:Conjunction"
+    ],
+    "par ailleurs": [
+        "EXPANSION:Conjunction"
+    ],
+    "par comparaison": [
+        "COMPARISON:Contrast"
+    ],
+    "par conséquent": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "par contre": [
+        "COMPARISON:Contrast",
+        "EXPANSION:Exception"
+    ],
+    "par exemple": [
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "par le fait qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "par le fait que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "par suite": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "par-dessus tout": [
+        "EXPANSION:Conjunction"
+    ],
+    "parallèlement": [
+        "EXPANSION:Conjunction"
+    ],
+    "parce qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "parce que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "pendant qu'": [
+        "COMPARISON:Contrast",
+        "CONTINGENCY:Cause+belief",
+        "TEMPORAL:Synchronous"
+    ],
+    "pendant que": [
+        "COMPARISON:Contrast",
+        "CONTINGENCY:Cause+belief",
+        "TEMPORAL:Synchronous"
+    ],
+    "peu importe": [
+        "EXPANSION:Exception"
+    ],
+    "plus qu'": [
+        "unknown"
+    ],
+    "plus que": [
+        "unknown"
+    ],
+    "plus tard": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "plutôt": [
+        "EXPANSION:Conjunction",
+        "EXPANSION:Equivalence"
+    ],
+    "plutôt qu'": [
+        "unknown"
+    ],
+    "plutôt que": [
+        "unknown"
+    ],
+    "plutôt que d'": [
+        "EXPANSION:Disjunction"
+    ],
+    "plutôt que de": [
+        "EXPANSION:Disjunction"
+    ],
+    "pour": [
+        "CONTINGENCY:Purpose"
+    ],
+    "pour autant": [
+        "EXPANSION:Exception"
+    ],
+    "pour autant qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "pour autant que": [
+        "CONTINGENCY:Condition"
+    ],
+    "pour commencer": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "pour conclure": [
+        "EXPANSION:Conjunction",
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "pour finir": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "pour le coup": [
+        "EXPANSION:Disjunction",
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "pour peu qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "pour peu que": [
+        "CONTINGENCY:Condition"
+    ],
+    "pour preuve": [
+        "EXPANSION:Conjunction"
+    ],
+    "pour qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "pour que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "pour résumer": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "pour terminer": [
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Asynchronous:Precedence"
+    ],
+    "pour une fois qu'": [
+        "unknown"
+    ],
+    "pour une fois que": [
+        "unknown"
+    ],
+    "pourtant": [
+        "EXPANSION:Exception",
+        "COMPARISON:Concession"
+    ],
+    "pourvu qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "pourvu que": [
+        "CONTINGENCY:Condition"
+    ],
+    "premièrement": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "preuve qu'": [
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "preuve que": [
+        "CONTINGENCY:Cause:Result+belief",
+        "CONTINGENCY:Cause:Result+speechact"
+    ],
+    "puis": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "puisqu'": [
+        "CONTINGENCY:Cause+belief",
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "puisque": [
+        "CONTINGENCY:Cause+belief",
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "quand": [
+        "TEMPORAL:Asynchronous:Succession",
+        "CONTINGENCY:Condition",
+        "TEMPORAL:Synchronous"
+    ],
+    "quand bien même": [
+        "COMPARISON:Concession"
+    ],
+    "quand bien même qu'": [
+        "COMPARISON:Concession"
+    ],
+    "quand bien même que": [
+        "COMPARISON:Concession"
+    ],
+    "quand même": [
+        "EXPANSION:Exception"
+    ],
+    "quant à": [
+        "unknown"
+    ],
+    "quitte à": [
+        "unknown"
+    ],
+    "quitte à ce qu'": [
+        "unknown"
+    ],
+    "quitte à ce que": [
+        "unknown"
+    ],
+    "quoi qu' il en soit": [
+        "EXPANSION:Exception"
+    ],
+    "quoiqu'": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "quoique": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "remarque": [
+        "EXPANSION:Exception"
+    ],
+    "réciproquement": [
+        "COMPARISON:Similarity",
+        "COMPARISON:Contrast"
+    ],
+    "réflexion faite": [
+        "EXPANSION:Exception"
+    ],
+    "résultat": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "s'": [
+        "CONTINGENCY:Condition",
+        "COMPARISON:Concession"
+    ],
+    "sachant qu'": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "sachant que": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "sans": [
+        "unknown"
+    ],
+    "sans compter qu'": [
+        "EXPANSION:Conjunction"
+    ],
+    "sans compter que": [
+        "EXPANSION:Conjunction"
+    ],
+    "sans oublier qu'": [
+        "EXPANSION:Conjunction"
+    ],
+    "sans oublier que": [
+        "EXPANSION:Conjunction"
+    ],
+    "sans qu'": [
+        "unknown"
+    ],
+    "sans que": [
+        "unknown"
+    ],
+    "sauf qu'": [
+        "EXPANSION:Exception"
+    ],
+    "sauf que": [
+        "EXPANSION:Exception"
+    ],
+    "sauf à": [
+        "unknown"
+    ],
+    "selon qu'": [
+        "unknown"
+    ],
+    "selon que": [
+        "unknown"
+    ],
+    "si": [
+        "CONTINGENCY:Condition",
+        "COMPARISON:Concession"
+    ],
+    "si bien qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "si bien que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "si ce n' est qu'": [
+        "COMPARISON:Concession"
+    ],
+    "si ce n' est que": [
+        "COMPARISON:Concession"
+    ],
+    "si tant est qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "si tant est que": [
+        "CONTINGENCY:Condition"
+    ],
+    "simultanément": [
+        "COMPARISON:Similarity",
+        "COMPARISON:Contrast"
+    ],
+    "sinon": [
+        "EXPANSION:Disjunction",
+        "EXPANSION:Exception",
+        "EXPANSION:Conjunction"
+    ],
+    "sinon qu'": [
+        "COMPARISON:Concession"
+    ],
+    "sinon que": [
+        "COMPARISON:Concession"
+    ],
+    "sitôt qu'": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner"
+    ],
+    "sitôt que": [
+        "TEMPORAL:Asynchronous:Succession",
+        "EXPANSION:Manner"
+    ],
+    "soit": [
+        "EXPANSION:Disjunction"
+    ],
+    "soit ... soit": [
+        "EXPANSION:Level-of-detail"
+    ],
+    "soit dit en passant": [
+        "COMPARISON:Concession",
+        "EXPANSION:Conjunction"
+    ],
+    "somme toute": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "EXPANSION:Exception"
+    ],
+    "soudain": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "subséquemment": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "suivant qu'": [
+        "unknown"
+    ],
+    "suivant que": [
+        "unknown"
+    ],
+    "surtout": [
+        "EXPANSION:Conjunction"
+    ],
+    "surtout qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "surtout que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "tandis qu'": [
+        "COMPARISON:Contrast",
+        "TEMPORAL:Synchronous"
+    ],
+    "tandis que": [
+        "COMPARISON:Contrast",
+        "TEMPORAL:Synchronous"
+    ],
+    "tant et si bien qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "tant et si bien que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "tant qu'": [
+        "CONTINGENCY:Condition",
+        "TEMPORAL"
+    ],
+    "tant que": [
+        "CONTINGENCY:Condition",
+        "TEMPORAL"
+    ],
+    "total": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "tout au moins": [
+        "EXPANSION:Exception",
+        "EXPANSION:Equivalence"
+    ],
+    "tout bien considéré": [
+        "EXPANSION:Level-of-detail:Arg2-as-detail",
+        "EXPANSION:Exception"
+    ],
+    "tout compte fait": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "tout d' abord": [
+        "EXPANSION:Level-of-detail",
+        "EXPANSION:Manner",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "tout de même": [
+        "EXPANSION:Exception"
+    ],
+    "tout en": [
+        "COMPARISON:Concession",
+        "TEMPORAL"
+    ],
+    "tout à coup": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction",
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "un jour": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "un jour qu'": [
+        "TEMPORAL:Synchronous"
+    ],
+    "un jour que": [
+        "TEMPORAL:Synchronous"
+    ],
+    "un peu plus tard": [
+        "TEMPORAL:Asynchronous:Precedence",
+        "EXPANSION:Conjunction"
+    ],
+    "une fois qu'": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "une fois que": [
+        "TEMPORAL:Asynchronous:Succession"
+    ],
+    "vu qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "vu que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason",
+        "CONTINGENCY:Cause+belief"
+    ],
+    "à": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "à ce moment-là": [
+        "CONTINGENCY:Condition",
+        "TEMPORAL"
+    ],
+    "à ce point qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à ce point que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à ce propos": [
+        "EXPANSION:Conjunction"
+    ],
+    "à ceci près qu'": [
+        "COMPARISON:Concession"
+    ],
+    "à ceci près que": [
+        "COMPARISON:Concession"
+    ],
+    "à cela près qu'": [
+        "COMPARISON:Concession"
+    ],
+    "à cela près que": [
+        "COMPARISON:Concession"
+    ],
+    "à cet égard": [
+        "CONTINGENCY:Condition"
+    ],
+    "à condition d'": [
+        "CONTINGENCY:Condition"
+    ],
+    "à condition de": [
+        "CONTINGENCY:Condition"
+    ],
+    "à condition qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "à condition que": [
+        "CONTINGENCY:Condition"
+    ],
+    "à dire vrai": [
+        "unknown"
+    ],
+    "à défaut d'": [
+        "COMPARISON:Concession",
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "à défaut de": [
+        "COMPARISON:Concession",
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "à en": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à force": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à force d'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "à force de": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "à l' heure où": [
+        "TEMPORAL:Synchronous",
+        "TEMPORAL"
+    ],
+    "à l' instant où": [
+        "TEMPORAL:Asynchronous:Succession",
+        "TEMPORAL:Synchronous",
+        "TEMPORAL"
+    ],
+    "à l' inverse": [
+        "COMPARISON:Contrast"
+    ],
+    "à l' époque où": [
+        "TEMPORAL:Synchronous"
+    ],
+    "à la place": [
+        "EXPANSION:Exception"
+    ],
+    "à la réflexion": [
+        "EXPANSION:Exception"
+    ],
+    "à mesure qu'": [
+        "unknown"
+    ],
+    "à mesure que": [
+        "unknown"
+    ],
+    "à moins d'": [
+        "EXPANSION:Disjunction"
+    ],
+    "à moins de": [
+        "EXPANSION:Disjunction"
+    ],
+    "à moins qu'": [
+        "EXPANSION:Disjunction"
+    ],
+    "à moins que": [
+        "EXPANSION:Disjunction"
+    ],
+    "à part qu'": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "à part que": [
+        "COMPARISON:Concession",
+        "EXPANSION:Exception"
+    ],
+    "à part ça": [
+        "EXPANSION:Exception"
+    ],
+    "à partir du moment où": [
+        "CONTINGENCY:Condition",
+        "TEMPORAL"
+    ],
+    "à preuve": [
+        "CONTINGENCY:Cause+belief"
+    ],
+    "à propos": [
+        "EXPANSION:Conjunction"
+    ],
+    "à présent qu'": [
+        "CONTINGENCY:Cause+belief",
+        "TEMPORAL"
+    ],
+    "à présent que": [
+        "CONTINGENCY:Cause+belief",
+        "TEMPORAL"
+    ],
+    "à seule fin d'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "à seule fin de": [
+        "CONTINGENCY:Purpose"
+    ],
+    "à seule fin qu'": [
+        "CONTINGENCY:Purpose"
+    ],
+    "à seule fin que": [
+        "CONTINGENCY:Purpose"
+    ],
+    "à supposer qu'": [
+        "CONTINGENCY:Condition"
+    ],
+    "à supposer que": [
+        "CONTINGENCY:Condition"
+    ],
+    "à tel point qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à tel point que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à telle enseigne qu'": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à telle enseigne que": [
+        "CONTINGENCY:Cause:Result"
+    ],
+    "à vrai dire": [
+        "unknown"
+    ],
+    "à ça près qu'": [
+        "COMPARISON:Concession"
+    ],
+    "à ça près que": [
+        "COMPARISON:Concession"
+    ],
+    "également": [
+        "COMPARISON:Similarity"
+    ],
+    "étant donné qu'": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ],
+    "étant donné que": [
+        "EXPANSION:Manner",
+        "EXPANSION:Level-of-detail",
+        "CONTINGENCY:Cause:Reason"
+    ]
+}
