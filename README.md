@@ -1,6 +1,10 @@
 # Aligning German/French Connectives
 This program can be used to extract the word alignment based on a file in pharaoh format and to align French and German connectives.
 
+If you use the code for your research, please cite the following:
+
+Sophia Rauh, Karolina Zaczynska and Peter Bourgonje. Toward a Multilingual Connective Database: Aligning German/French Concessive Connectives. To appear in _Proceedings of the 19th Conference on Natural Language Processing (KONVENS 2023)_.
+
 ## Installation
 The project is written with Python 3. Further requirements are:
 * nltk
@@ -66,4 +70,11 @@ If no relation is specified, concession is chosen as a default.
 ```
 python de_fr_align.py -dr contrast alignment.txt german.txt french.txt
 ```
+
+## References
+This work is based on the connective lexicons DiMLex and LEXCONN.
+
+Manfred Stede and Carla Umbach. 1998. [DiMLex: A lexicon of discourse markers for text generation and understanding](https://dl.acm.org/doi/10.3115/980691.980771). In _36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 2_, pages 1238–1242, Montreal, Quebec, Canada. Association for Computational Linguistics.
+
+Charlotte Roze, Laurence Danlos, and Philippe Muller. 2012. [LEXCONN: A French lexicon of discourse connectives](https://journals.openedition.org/discours/8645). _Discours. Revue de linguistique, psycholinguistique et informatique_, 10.
 
